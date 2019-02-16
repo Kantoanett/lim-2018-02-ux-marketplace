@@ -11,6 +11,7 @@
 
 Foto: [Destino Marañón](https://pausa.la/es/rutas/maranon_libre)
 
+
 ## ¿Qué es Pausa?
 
 Es una empresa de turismo que ayuda a las personas que buscan una reconexión con la naturaleza, consigo mismas u otras personas, a encontrar y facilitar un viaje flexible a un destino sostenible, gestionados o cuidados por familias asombrosas, que inspiran y que han decidido dedicar su vida a conservar y cuidar el medio ambiente.
@@ -226,6 +227,11 @@ Uno de los problemas que más resaltaron los usuarios fue la falta de claridad e
  <img src="https://i.ibb.co/nnZmrWZ/Benchmark-Pausa.png">
 </p>
 
+Encontramos oportunidades de mejora para que Pausa destaque aún más versus otras empresas:
+- La propuesta de valor de Pausa debería comprenderse mejor desde el principio. Es un atributo sumamente importante como oferta a los viajeros ya que sabemos que valoran conocer lugares totalmente diferentes y compartir directamente con personas propias del destino.
+- Un punto menos favorable es que la empresa no se encuentra en la búsqueda de las páginas de reseña de contenido (*linkbuildings*), y es ahí donde la gran mayoría de viajeros realiza la búsqueda, recomendaciones y fotos de los destinos.
+- Por otro lado, la versión en inglés está en proceso. Una vez culminada, abrirá horizontes y atraerá turistas extranjeros que compartan un estilo de vida sostenible y a su vez estén dispuestos a convivir con personas de la localidad donde vayan.
+
 ### 2. User Flow 
 
 <p align="center">
@@ -261,7 +267,7 @@ Una de las primeras cosas que hicimos fue investigar y definir la paleta de colo
 Para revisar la documentación:
 - [Link prototipo mobile](https://www.figma.com/file/HIqaKjgGjKMNYAMdqMDj2sBk/Mobile-Pausa?node-id=0%3A1)
 
-## VI. USER TESTING
+## V. USER TESTING
 
 ### 1. Prototipo de baja fidelidad
 
@@ -288,22 +294,23 @@ Para revisar la documentación:
 
 #### Hallazgos
 
-
-
-#### Conclusión
-
+En palabras de los usuarios testeados
+- Amigable, intuitivo, de fácil comprensión.
+- Se logra entender lo que Pausa desea transmitir a sus usuarios.
+- Realizamos el cambio de la palabra Emprendedor a Anfitrión. Uno de los usuarios sugirió que sería mejor si logramos encontrar una palabra que conecte con las familias que son parte de la experiencia.
+- Como mejora, hacer un pequeño cambio moviendo la sección donde se encuentra las recomendación de los viajeros y subirlos al inicio de la página para que se obtenga una información secuencial del destino.
 
 Para revisar la documentación:
-- [Ver videos y fotos]()
+- [User persona 1 - Alexis Pescoran](https://lookback.io/watch/pjsfgKDHhvuYRdjZ9)
+- [User persona 2 Gianfranco Di Negro](https://drive.google.com/drive/u/0/folders/1sLCLrcU5gKseu9QzUuS89tHpG8ENZYXl)
+- User persona 3 - Daniela Jaramillo: El video que grabamos no se logró guardar porque tuvimos complicaciones con la laptop.
 
-## VII. DOCUMENTACIÓN DEL PROYECTO
+## VI. DOCUMENTACIÓN DEL PROYECTO
 
 - [Carpeta Drive](https://drive.google.com/drive/folders/1QHugPE4XJwMjRapKOjGji918AE08yrvl)
 - [Zeplin](https://zpl.io/aXwQODM)
-- [Vídeo LOOM](link)
+- [Vídeo LOOM](https://www.useloom.com/share/b817b85dad06445fa68cc3a665c39dc4)
 
-## VIII. PLANIFICACIÓN
- 
- - [Trello](https://trello.com/b/Yfx1aL0v/proyecto-market-place)
+## VII. PLANIFICACIÓN
 
-## IX. FUTURAS MEJORAS
+Usamos [Trello](https://trello.com/b/Yfx1aL0v/proyecto-market-place) para planificar las actividades porque nos pareció más sencillo que ambas tengamos acceso a verlas mientras estábamos trabajando remoto y poder modificar o agregar tareas.
